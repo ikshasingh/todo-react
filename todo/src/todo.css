@@ -1,0 +1,47 @@
+.button{
+    background-color: 
+    rgb(187, 146, 69);
+    color: rgb(227, 223, 214);
+    font-size: larger;
+    font-style: italic;
+   
+}
+.input{
+    margin-top: 20px;
+height: 60px;
+width: 350px;
+  background-color: rgb(185, 133, 73);
+  opacity: 2.5;
+  color: rgb(230, 224, 224);
+    font-size: medium;
+    font-style: italic;
+}
+.main{
+    text-align: center;
+    margin-top: 50px;
+background-color: white;
+height: 1000px;
+width: 500px;
+color: black;
+
+border-radius: 10px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.ul{
+    list-style-type: none;
+    padding: 0;
+    color: orange;
+    font-size: x-large;
+    font-family:italic;
+
+}
+.button1{
+    background-color: rgb(187, 146, 69);
+    color: rgb(227, 223, 214);
+    font-size: larger;
+    font-style: italic;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    height: 50px;
+}
